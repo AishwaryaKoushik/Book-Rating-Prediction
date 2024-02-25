@@ -18,6 +18,9 @@ Two models have been used to perform classification -
 
   2. Logistic Regression
      A statistical approach and a Machine Learning algorithm that is used for classification problems and is based on the concept of probability. Logistics regression uses the sigmoid function to return the probability of a label. The different types are - Binomial and Multinomial
+
+
+     
     <img width="433" alt="image" src="https://github.com/AishwaryaKoushik/Book-Rating-Prediction/assets/161193220/14ce1160-d215-4afd-844b-f87b66cc1426">
 
 
