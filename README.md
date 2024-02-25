@@ -21,7 +21,8 @@ Two models have been used to perform classification -
 
 
      
-    <img width="433" alt="image" src="https://github.com/AishwaryaKoushik/Book-Rating-Prediction/assets/161193220/14ce1160-d215-4afd-844b-f87b66cc1426">
+<img width="433" alt="image" src="https://github.com/AishwaryaKoushik/Book-Rating-Prediction/assets/161193220/800310d9-4fce-4c3c-ad1d-c86516d33f0b">
+
 
 
 
