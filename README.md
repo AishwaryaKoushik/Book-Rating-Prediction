@@ -25,14 +25,14 @@ Two models have been used to perform classification -
 
 
      
-<img width="433" alt="image" src="https://github.com/AishwaryaKoushik/Book-Rating-Prediction/assets/161193220/800310d9-4fce-4c3c-ad1d-c86516d33f0b">
+  <img width="433" alt="image" src="https://github.com/AishwaryaKoushik/Book-Rating-Prediction/assets/161193220/800310d9-4fce-4c3c-ad1d-c86516d33f0b">
 
 
 
 The two models are tested for their performance and accuracy. It is observes that Logistic Regression outsmarts Random Forest classifier in terms of accuracy.
 
 
-<img width="903" alt="RESULTD" src="https://github.com/AishwaryaKoushik/Book-Rating-Prediction/assets/161193220/0d1f26a1-436b-4e6c-8189-0d9262ceb0b8">
+  <img width="903" alt="RESULTD" src="https://github.com/AishwaryaKoushik/Book-Rating-Prediction/assets/161193220/0d1f26a1-436b-4e6c-8189-0d9262ceb0b8">
 
 
      
